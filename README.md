@@ -26,9 +26,8 @@ Sleep is essential to health and well-being. Using activity and health data from
   - Sedentary Minutes  
 - Target: **Sleep Quality (0 = Bad, 1 = Good)**  
 - Target derived by calculating **Sleep Efficiency**:
-  \[
-  \text{Sleep Efficiency} = \frac{\text{Total Minutes Asleep}}{\text{Total Time in Bed}}
-  \]
+  Sleep Efficiency = Total Minutes Asleep\Total Time in Bed
+  
   - Sleep quality is **Good (1)** if efficiency ≥ 85% (based on National Sleep Foundation guidelines).
 
 ---
